@@ -1,0 +1,13 @@
+{
+    "setting": {
+      "history": "History",
+      "orderDetails": "Order Details",
+      "address": "Address",
+      "paymentMethod": "Payment Method",
+      "languages": "Languages",
+      "help": "Help",
+      "theme": "Theme",
+      "logout": "Log out"
+    }
+  }
+  

@@ -1,0 +1,12 @@
+{
+  "setting": {
+    "history": "Lịch sử",
+    "orderDetails": "Chi tiết đơn hàng",
+    "address": "Địa chỉ",
+    "paymentMethod": "Phương thức thanh toán",
+    "languages": "Ngôn ngữ",
+    "help": "Trợ giúp",
+    "theme": "Giao diện",
+    "logout": "Đăng xuất"
+  }
+}
